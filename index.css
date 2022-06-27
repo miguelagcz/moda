@@ -1,0 +1,45 @@
+body {
+    height:400px;
+    background-image: url(file:///C:/Users/MIGUEL%20CRUZ/Downloads/rsz_the-blowup-rmjq07ki20u-unsplash.jpg);
+    color:white;
+    background-size: cover;
+    background-position: center;
+    background-color:rgba(0 ,0 , 0 ,0.6);
+    background-blend-mode: darken;
+}
+
+h1,h2,h3,h4,h5{
+    font-family: 'Bebas Neue', cursive;
+
+}
+
+.cover-small{
+    height: 400px;
+    background-blend-mode:normal;
+}
+
+.card{
+    border: 0 !important;
+    box-shadow: 0,4px,6px,-1px  rgba(0,0,0,0.1), 2px 4px -1px  rgba(0 ,0 , 0 ,0.6);
+    background-color:rgba(0 ,0 , 0 ,0.6);
+}
+ .card-title{
+min-height: 3rem;
+ }
+
+.card-text{
+    min-height: 10rem;
+}
+
+.responsive-iframe{
+ position:relative;
+ padding-top: 56.25%;
+}
+.responsive-iframe iframe {
+    position:  absolute;
+    top: 0;
+    left: 0;
+    width: 100% ;
+    height: 100%;
+}
+

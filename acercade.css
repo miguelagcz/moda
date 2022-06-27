@@ -1,0 +1,9 @@
+body {
+    height:400px;
+    background-image: url(file:///C:/Users/MIGUEL%20CRUZ/Downloads/korie-cull-IzIME1jwjCY-unsplash.jpg);
+    color:white;
+    background-size: cover;
+    background-position: center;
+    background-color:rgba(0 ,0 , 0 ,0.6);
+    background-blend-mode: darken;
+}
